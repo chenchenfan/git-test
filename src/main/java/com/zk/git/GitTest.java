@@ -12,6 +12,7 @@ public class GitTest {
         System.out.println("Hello git6");
         System.out.println("master test");
         System.out.println("hot-fix");
+        System.out.println("冲突");
 
 
     }
