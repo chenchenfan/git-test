@@ -22,5 +22,6 @@ public class GitTest {
         System.out.println("冲突");
         System.out.println("远程库1");
         System.out.println("远程库2");
+        System.out.println("远程库3");
     }
 }
