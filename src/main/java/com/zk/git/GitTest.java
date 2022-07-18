@@ -27,6 +27,7 @@ public class GitTest {
         System.out.println("远程库5");
         System.out.println("远程库内容");System.out.println("远程库内容");
         System.out.println("远程库内容");System.out.println("远程库内容");
-        System.out.println("远程库内容");
+        System.out.println("远程库内容");System.out.println("远程库内容");
+        System.out.println("远程库内容");System.out.println("远程库内容");System.out.println("远程库内容");System.out.println("远程库内容");
     }
 }
