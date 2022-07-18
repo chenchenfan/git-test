@@ -13,6 +13,7 @@ public class GitTest {
         System.out.println("master test");
         System.out.println("hot-fix");
         System.out.println("push commit");
-        System.out.println("pull commit");
+        System.out.println("远程库1");
+        System.out.println("远程库2");
     }
 }
