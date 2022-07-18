@@ -18,5 +18,8 @@ public class GitTest {
         System.out.println("123213123123");
         System.out.println("123213123123");
         System.out.println("冲突");
+        System.out.println("冲突");
+        System.out.println("冲突");
+        System.out.println("冲突");
     }
 }
